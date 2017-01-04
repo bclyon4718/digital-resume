@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Betta Lyon-Delsordo
 
 You can use the [editor on GitHub](https://github.com/bclyon4718/digital-resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
